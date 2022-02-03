@@ -1,4 +1,4 @@
-# Project-Allocation-System
+# Project Allocation System
 
 All universities and colleges are mainly focusing on making the process online with a web based application for the convenience of students and teachers. 
 
